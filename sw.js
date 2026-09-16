@@ -1,4 +1,4 @@
-const CACHE = 'feed-offline-v6';
+const CACHE = 'feed-offline-v7';
 const APP_SHELL = [
   './',
   './index.html',
@@ -8,10 +8,7 @@ const APP_SHELL = [
   './icons/icon.svg',
   './icons/apple-touch-icon.png',
   './icons/icon-192.png',
-  './icons/icon-512.png',
-  './apple-touch-icon.png',
-  './icon-192.png',
-  './icon-512.png'
+  './icons/icon-512.png'
 ];
 
 self.addEventListener('install', event => {
