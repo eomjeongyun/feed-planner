@@ -1,4 +1,4 @@
-const CACHE = 'feed-offline-v7';
+const CACHE = 'feed-offline-v8';
 const APP_SHELL = [
   './',
   './index.html',
