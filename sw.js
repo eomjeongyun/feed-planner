@@ -1,8 +1,9 @@
-const CACHE = 'feed-offline-v8';
+const CACHE = 'feed-offline-v9';
 const APP_SHELL = [
   './',
   './index.html',
   './style.css',
+  './boards.css',
   './app.js',
   './manifest.webmanifest',
   './icons/icon.svg',
